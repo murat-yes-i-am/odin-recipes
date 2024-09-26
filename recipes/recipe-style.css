@@ -21,3 +21,10 @@ html {
   padding: 1em 5em;
   border: 2px solid black;
 }
+
+.list {
+  width: 75%;
+  margin: 0 auto;
+  padding: 1em 5em;
+  border: 1px solid black;
+}
