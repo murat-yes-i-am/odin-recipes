@@ -7,3 +7,10 @@ html {
 .main-heading {
   text-align: center;
 }
+
+.dish-image {
+  display: block;
+  width: 60%;
+  height: auto;
+  margin: 0 auto;
+}
