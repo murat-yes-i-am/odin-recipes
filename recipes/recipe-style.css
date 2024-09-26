@@ -4,6 +4,7 @@ html {
   box-sizing: border-box;
   line-height: 1.75em;
   background-color: rgb(255, 191, 0);
+  font-size: 18px;
 }
 
 .heading {
