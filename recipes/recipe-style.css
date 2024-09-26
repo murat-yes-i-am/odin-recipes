@@ -2,6 +2,7 @@ html {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  line-height: 1.75em;
 }
 
 .heading {
@@ -25,6 +26,5 @@ html {
 .list li {
   padding: 0.75em;
   width: 75%;
-  line-height: 1.75em;
   margin: 0 auto;
 }
