@@ -7,3 +7,16 @@ html {
   font-size: 28px;
 }
 
+h1, ol {
+  width: 50%;
+  margin: 0 25%;
+  padding: 5px;
+}
+
+a, a:visited {
+  color: black;
+}
+
+a:hover {
+  color: white;
+}
